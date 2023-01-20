@@ -1,2 +1,2 @@
-# C-Basics-Exercises
-C# Basics Course
+# C-Fundamentals-Exercises
+C# Fundamentals Course
